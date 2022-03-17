@@ -1,0 +1,100 @@
+html{
+	background-color: MintCream;
+	font-family: Bradley Hand;
+}
+body{
+	background: url(img/tlo.jpg);
+	
+}
+.container{
+	width: 800px;
+	min-height: 800px;
+	border: 5px solid Honeydew;
+	margin: 0 auto;
+	background-color: MintCream;
+}
+.header{
+	background-image: url(img/baner.webp);
+	background-repeat: no-repeat;
+	padding-top: 380px;
+	height: 80 px;
+	box-shadow: rgba (0, 0, 0, .10) 0 1px 0;
+	margin: 0 auto; 
+	text-align:left-side;
+	font-size: x-large;
+	
+}
+.menu table{
+	display: flax:
+	background-color: rgba(200, 250, 230);
+}	
+.menu{
+	padding-top: 30px;
+}
+.menu th a {
+	padding: 10px 10px 10px 10px;
+	line-height: 30px;
+	display: flax;
+	text-decoration: none;
+	color: black;
+	text-align: center
+	font-weight: bold;
+	border: 1px solid black;
+	font-size: medium;
+}
+.menu th a:hover{
+	background: #acf6c8;
+}
+.text{
+	padding-top: 30px;
+}
+h1{
+	text-align:left;
+	color:white;
+	font-size: 65px;
+	background-color: rgba(255, 255, 255,.35);
+	padding: 5px 0 0 30px;
+	font-family: Brush Script MT;
+	text-shadow: rgba(0, 0, 0, .10) 2px 2px 2px;
+}
+h3, p {
+	
+	margin: 15px 30px 0 30px;
+	padding-top: 25px;
+}
+h2 {
+	padding-top: 30px;
+	border-bottom: 2px solid MintCream;
+	margin: 15px 25px 0 30px; 
+	text-decoration: underline; 
+	font-size: x-large;
+}
+p{
+
+	text-align: justify;
+	line-height: 30px;
+}
+h3{
+	font-weight: bolt;
+	font-size: x-large;
+}
+.text{
+	padding: 15px 15px 10px 20px;
+}
+img{
+	text-align: center;
+}
+#clock{
+	color: white;
+	margin-left: 5vh;
+	font-weight: bolt;
+	font-family: Brush Script MT;
+
+}
+h4{
+	text-align:left;
+	color:white;
+	padding: 5px 0 0 30px;
+	font-family: Brush Script MT;
+	text-shadow: rgba(0, 0, 0, .10) 2px 2px 2px;
+}
